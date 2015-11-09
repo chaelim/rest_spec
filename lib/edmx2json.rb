@@ -40,7 +40,7 @@ module SpecMaker
 		end
 	end
 
-	puts "Staring..."
+	puts "Starting..."
 
 	# Process all annotationa. Load in memory.
 	
